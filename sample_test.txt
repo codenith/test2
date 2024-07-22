@@ -6,3 +6,5 @@ Adding this from test branch.
 Adding new sentence (part of learning github , silly example :) )
 
 Adding test branch 2, adding some more changes.
+
+These changes are made by the collaborator.
